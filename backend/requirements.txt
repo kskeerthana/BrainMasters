@@ -23,3 +23,9 @@ numpy>=1.26.0
 python-multipart>=0.0.9
 jq>=1.6.0
 typer>=0.9.0
+# Instagram Engagement Bot dependencies
+openai>=1.30.0
+instaloader>=4.10.3
+playwright>=1.42.0
+schedule>=1.3.0
+supabase-py>=2.3.0
